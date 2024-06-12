@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InkWellReads.Books.API", "src\InkWellReads.Books.API\InkWellReads.Books.API.csproj", "{373A2A41-BF2C-4C24-A026-3230A37CF0B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InkWellReads.Books.Domain", "src\InkWellReads.Books.Domain\InkWellReads.Books.Domain.csproj", "{26A4B875-20F9-4D20-A2EE-BAEF88B743B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InkwellReads.Books.Infrastructure", "src\InkwellReads.Books.Infrastructure\InkwellReads.Books.Infrastructure.csproj", "{16C3FE96-813C-479F-9900-B78494C8D3E4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InkwellReads.Books.Application", "src\InkwellReads.Books.Application\InkwellReads.Books.Application.csproj", "{17A5876C-505F-44D2-A888-17ECD51297E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373A2A41-BF2C-4C24-A026-3230A37CF0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373A2A41-BF2C-4C24-A026-3230A37CF0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373A2A41-BF2C-4C24-A026-3230A37CF0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373A2A41-BF2C-4C24-A026-3230A37CF0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A4B875-20F9-4D20-A2EE-BAEF88B743B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A4B875-20F9-4D20-A2EE-BAEF88B743B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A4B875-20F9-4D20-A2EE-BAEF88B743B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A4B875-20F9-4D20-A2EE-BAEF88B743B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C3FE96-813C-479F-9900-B78494C8D3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C3FE96-813C-479F-9900-B78494C8D3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C3FE96-813C-479F-9900-B78494C8D3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C3FE96-813C-479F-9900-B78494C8D3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A5876C-505F-44D2-A888-17ECD51297E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A5876C-505F-44D2-A888-17ECD51297E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A5876C-505F-44D2-A888-17ECD51297E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A5876C-505F-44D2-A888-17ECD51297E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB79AEFB-28E2-4FF6-8EBD-9926F7D6AE82}
+	EndGlobalSection
+EndGlobal
